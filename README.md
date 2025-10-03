@@ -10,7 +10,7 @@ To-Do app with two sections, Active and Completed, using Jetpack Compose. The ap
 * Delete tasks from either list.
 
 ---
-<img width="394" height="883" alt="Screenshot 2025-10-03 075947" src="https://github.com/user-attachments/assets/77ef5ce9-81c6-4b37-b780-eb0b954865d8" />
+<img width="394" height="883" alt="Screenshot 2025-10-03 075947" src="https://github.com/user-attachments/assets/4129d0ad-4eae-4e44-b48b-bcd79f74c2d6" />
 ---
 
 ## Concepts Demonstrated
